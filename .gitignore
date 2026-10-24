@@ -1,0 +1,21 @@
+# Configuration with sensitive data
+config/config.php
+
+# Data files (can be generated)
+data/playlist.json
+
+# Dependencies
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
